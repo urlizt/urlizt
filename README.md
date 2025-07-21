@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Product Manager specializing in Dublin. I enjoy The Long Dark (TLD) & the outdoors.</p>
-    <p> 🔭 I’m currently working on ES Chat/Bot & Microsoft Dev Box [Personalizations](/MakeItMine)</p>
+    <p>I'm a Senior Product Manager specializing in Enterprise wide Engineering Platforms working in Dublin. I enjoy The Long Dark (TLD) & the outdoors.</p>
+    <p> 🔭 I’m currently working on our Developer Experience focusing on ES Chat/Bot & Microsoft Dev Box </p>
 </div>
 
 
