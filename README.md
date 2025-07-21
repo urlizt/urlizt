@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
     <p>I'm a Product Manager specializing in Dublin. I enjoy The Long Dark (TLD) & the outdoors.</p>
-    <p> 🔭 I’m currently working on Microsoft Dev Box [Personalizations](/MakeItMine)</p>
+    <p> 🔭 I’m currently working on ES Chat/Bot & Microsoft Dev Box [Personalizations](/MakeItMine)</p>
 </div>
 
 
