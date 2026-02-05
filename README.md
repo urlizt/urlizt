@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://www.linkedin.com/in/ursulaliston">
     <img src="https://img.shields.io/badge/ursulaliston-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-<a href="https://github.com/ZanePearton/urlizt" target="_blank">
+<a href="https://github.com/urlizt" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=urlizt&style=for-the-badge" alt="Profile views" />
