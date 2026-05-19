@@ -48,6 +48,7 @@ validate earlier, and increase the leverage of product work.
 ## 🔭 Current builds
 - **🦞 Pinchy** — is my OpenClaw instance, built as a personal AI assistant for hands-on experimentation. It’s where I explore agent workflows, automation, and practical ways to make AI tools feel personal and useful. The goal is to turn an adaptable assistant into something I can actually build with and develop over time.
 - **Pinchy on Pi** <img src="./assets/RaspberryPiLogo.png" alt="Raspberry Pi" width="18" /> — I'm building Pinchy on a Raspberry Pi 5 setup to make it more portable and experimentation-friendly. This version is focused on creating a safer test environment where I can iterate on the build to replace my Echo Show.
+- [PinchyOnPi.md](https://gist.github.com/urlizt/8c16fdc06608fa8be1853eba6b9c2077) — scratchpad notes, setup steps, and next tasks.
 
 👉 More context and background on LinkedIn.
 
