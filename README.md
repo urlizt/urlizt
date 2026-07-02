@@ -35,7 +35,7 @@ validate earlier, and increase the leverage of product work.
 <div align="left">
   <img src="https://img.shields.io/badge/GH_900_(Fundamentals)-earned-brightgreen" alt="GH-900"/>
   <img src="https://img.shields.io/badge/GH_200_(Actions)-earned-brightgreen" alt="GH-200"/>
-  <img src="https://img.shields.io/badge/GH_300_(Copilot)-underway-orange" alt="GH-300"/>
+  <img src="https://img.shields.io/badge/GH_300_(Copilot)-earned-brightgreen" alt="GH-300"/>
 </div>
 
 ## 🧰 Tools & focus areas
