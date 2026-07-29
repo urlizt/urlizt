@@ -40,11 +40,13 @@ validate earlier, and increase the leverage of product work.
 </div>
 
 ## 🧰 Tools & focus areas
+- Microsoft Foundry learning to build, customize, evaluate, and deploy AI apps and agents using projects, models, tools, and SDK.
+- OpenClaw for agentic system design, tool orchestration, and building my own AI assistant (Pinchy🦞)
 - PowerShell for automation and experimentation  
 - Azure Data Explorer (KQL) and Power BI for querying and understanding product data  
 - Python (early-stage) for analysis and synthesis  
 - GitHub Actions and Copilot workflows for modern AI-assisted development  
-- Prompt design for turning raw inputs into insights and design artefacts
+- Prompt design for turning raw inputs into insights and design artifacts
 
 ## 🔭 Current builds
 - **🦞 Pinchy** — is my OpenClaw instance, built as a personal AI assistant for hands-on experimentation. It’s where I explore agent workflows, automation, and practical ways to make AI tools feel personal and useful. The goal is to turn an adaptable assistant into something I can actually build with and develop over time.
@@ -61,11 +63,13 @@ As a Product Manager (started as an Engineer) here are some of the languages I d
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Azure%20Data%20Explorer-0072C6?style=for-the-badge&logo=azuredataexplorer&logoColor=white" alt="Azure Data Explorer"/>
-    <img src="https://custom-icon-badges.demolab.com/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Azure%20Data%20Explorer-0072C6?style=for-the-badge&logo=code&logoColor=white" alt="Azure Data Explorer"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Power%20Automate-0066B2?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Copilot%20Studio-593696?style=for-the-badge&amp;logoColor=white" alt="Copilot Studio"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Copilot%20Studio-00A3A3?style=for-the-badge&logo=bot&logoColor=white" alt="Copilot Studio"/>
+
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Foundry-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="Microsoft Foundry"/>
   
   <img src="https://custom-icon-badges.demolab.com/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -74,7 +78,9 @@ As a Product Manager (started as an Engineer) here are some of the languages I d
 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/OpenClaw-E74C3C?style=for-the-badge&logo=github&logoColor=white" alt="OpenClaw"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/OpenClaw-CC0000?style=for-the-badge&logo=terminal&logoColor=white" alt="OpenClaw"/>
+
+
 </div>
 
 ---
