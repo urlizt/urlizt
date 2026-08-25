@@ -63,26 +63,24 @@ validate earlier, and increase the leverage of product work.
 As a Product Manager (started as an Engineer) here are some of the languages I developed through in the past, and maintain a knowledge of. In the dynamic realm of cloud computing, I am gaining experience in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems.
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Foundry"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/OpenClaw-CC0000?style=for-the-badge&logo=terminal&logoColor=white" alt="OpenClaw"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Copilot%20Studio-00A3A3?style=for-the-badge&logo=bot&logoColor=white" alt="Copilot Studio"/>
+  
   <img src="https://custom-icon-badges.demolab.com/badge/Azure%20Data%20Explorer-0072C6?style=for-the-badge&logo=code&logoColor=white" alt="Azure Data Explorer"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Power%20Automate-0066B2?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Copilot%20Studio-00A3A3?style=for-the-badge&logo=bot&logoColor=white" alt="Copilot Studio"/>
 
-  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Foundry-0078D4?style=for-the-badge&logo=azure&logoColor=white" alt="Microsoft Foundry"/>
-  
-  <img src="https://custom-icon-badges.demolab.com/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/OpenClaw-CC0000?style=for-the-badge&logo=terminal&logoColor=white" alt="OpenClaw"/>
-
-
 </div>
 
 ---
