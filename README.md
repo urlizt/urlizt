@@ -36,7 +36,7 @@ validate earlier, and increase the leverage of product work.
   <img src="https://img.shields.io/badge/GH_900_(Fundamentals)-earned-brightgreen" alt="GH-900"/>
   <img src="https://img.shields.io/badge/GH_200_(Actions)-earned-brightgreen" alt="GH-200"/>
   <img src="https://img.shields.io/badge/GH_300_(Copilot)-earned-brightgreen" alt="GH-300"/>
-  <img src="https://img.shields.io/badge/AI_103_(Azure AI Apps and Agents)-underway-orange" alt="AI-103"/>
+  <img src="https://img.shields.io/badge/AI_103_(Azure AI Apps and Agents)-earned-brightgreen" alt="AI-103"/>
 </div>
 
 ---
